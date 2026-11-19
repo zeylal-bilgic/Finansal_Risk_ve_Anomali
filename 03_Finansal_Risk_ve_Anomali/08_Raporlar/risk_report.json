@@ -1,0 +1,49 @@
+{
+  "generated_on": "2026-11-15",
+  "dataset": "synthetic bank transfers",
+  "transaction_count": 10085,
+  "unique_alert_transactions": 275,
+  "control_trigger_total": 331,
+  "control_counts": {
+    "IQR yüksek tutar": 236,
+    "Gece + yüksek tutar": 65,
+    "10 dakika içinde tekrar": 30
+  },
+  "iqr_by_channel": {
+    "FAST": {
+      "q1": 694.96,
+      "q3": 1253.97,
+      "iqr": 559.01,
+      "upper_fence": 2092.48
+    },
+    "EFT": {
+      "q1": 701.16,
+      "q3": 1246.68,
+      "iqr": 545.52,
+      "upper_fence": 2064.96
+    },
+    "Havale": {
+      "q1": 722.11,
+      "q3": 1278.55,
+      "iqr": 556.44,
+      "upper_fence": 2113.21
+    }
+  },
+  "monte_carlo": {
+    "method": "Geçmiş sentetik günleri yerine koyarak örnekleme (Monte Carlo)",
+    "simulations": 10000,
+    "forecast_horizon_days": 30,
+    "monthly_net_outflow_try": {
+      "p05": 1608354.01,
+      "median": 2244225.69,
+      "p95": 2994440.23
+    },
+    "daily_gross_outflow_try": {
+      "p05": 46547.05,
+      "median": 63957.24,
+      "p95": 286637.82
+    },
+    "interpretation": "Geçmiş sentetik gün dağılımının devam ettiği varsayımına dayalı senaryo aralığıdır; gerçekleşme garantisi, fraud ihtimali veya müşteri bazlı risk skoru değildir."
+  },
+  "disclaimer": "İşaretlenen kayıtlar inceleme adayıdır; hata, dolandırıcılık veya kötü niyet kanıtı değildir. Monte Carlo sonuçları senaryo varsayımlarıdır."
+}

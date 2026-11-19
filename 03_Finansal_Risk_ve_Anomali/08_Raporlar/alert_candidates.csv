@@ -1,0 +1,276 @@
+﻿transaction_id,transaction_time,account_id,beneficiary_id,channel,direction,amount_try,priority,trigger_count,reasons
+TRX010034,2026-09-12 02:32:00,ACCT-0390,BEN-0303,EFT,outgoing,159393.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010035,2026-10-18 03:04:00,ACCT-0417,BEN-0153,Havale,outgoing,158949.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010021,2026-07-10 02:10:00,ACCT-0253,BEN-0780,EFT,outgoing,158363.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010036,2026-07-01 04:51:00,ACCT-0419,BEN-0194,Havale,outgoing,154059.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010032,2026-09-07 04:51:00,ACCT-0271,BEN-0796,Havale,outgoing,143733.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010023,2026-08-02 02:57:00,ACCT-0402,BEN-0270,FAST,outgoing,139272.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010022,2026-09-08 03:13:00,ACCT-0484,BEN-0130,Havale,outgoing,129654.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010026,2026-07-02 02:29:00,ACCT-0061,BEN-0276,FAST,outgoing,115685.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010027,2026-08-06 03:32:00,ACCT-0231,BEN-0448,EFT,outgoing,109740.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010039,2026-09-12 01:45:00,ACCT-0081,BEN-0207,EFT,outgoing,107552.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010033,2026-08-15 01:46:00,ACCT-0193,BEN-0042,FAST,outgoing,106100.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010040,2026-10-12 01:32:00,ACCT-0208,BEN-0063,EFT,outgoing,105428.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010037,2026-10-16 02:34:00,ACCT-0099,BEN-0254,FAST,outgoing,91562.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010025,2026-07-01 04:56:00,ACCT-0436,BEN-0203,Havale,outgoing,82402.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010030,2026-10-03 02:57:00,ACCT-0205,BEN-0140,FAST,outgoing,78318.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010038,2026-07-19 02:36:00,ACCT-0146,BEN-0302,FAST,outgoing,63171.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010028,2026-10-23 03:13:00,ACCT-0332,BEN-0203,FAST,outgoing,62654.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010031,2026-09-04 04:42:00,ACCT-0029,BEN-0530,Havale,outgoing,56214.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010024,2026-10-18 04:42:00,ACCT-0057,BEN-0029,FAST,outgoing,53347.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010029,2026-09-11 03:40:00,ACCT-0161,BEN-0190,FAST,outgoing,49520.00,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX009900,2026-07-28 00:16:00,ACCT-0131,BEN-0523,Havale,outgoing,3208.76,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX002074,2026-10-25 00:38:40,ACCT-0376,BEN-0671,Havale,outgoing,2919.29,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX000192,2026-07-28 00:43:19,ACCT-0348,BEN-0797,FAST,outgoing,2710.20,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX004228,2026-08-18 00:03:35,ACCT-0122,BEN-0099,Havale,outgoing,2644.61,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX000531,2026-08-02 04:37:05,ACCT-0324,BEN-0687,EFT,outgoing,2640.09,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX007242,2026-07-18 00:34:15,ACCT-0090,BEN-0560,EFT,outgoing,2627.22,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX002037,2026-07-24 02:15:40,ACCT-0054,BEN-0556,Havale,outgoing,2608.77,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX002288,2026-07-30 02:40:05,ACCT-0413,BEN-0692,FAST,outgoing,2578.29,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX003125,2026-09-17 02:05:22,ACCT-0483,BEN-0386,Havale,outgoing,2563.47,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX000666,2026-10-04 03:05:01,ACCT-0165,BEN-0620,FAST,outgoing,2546.12,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX000383,2026-08-23 04:48:07,ACCT-0140,BEN-0295,EFT,outgoing,2535.84,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX001533,2026-09-14 02:26:19,ACCT-0102,BEN-0469,Havale,outgoing,2522.63,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX007652,2026-10-24 04:25:32,ACCT-0174,BEN-0136,EFT,outgoing,2453.77,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX006418,2026-10-25 03:09:45,ACCT-0419,BEN-0387,EFT,outgoing,2439.46,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX009432,2026-08-08 02:11:23,ACCT-0250,BEN-0128,FAST,outgoing,2438.40,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX006068,2026-08-18 02:09:12,ACCT-0077,BEN-0781,Havale,outgoing,2411.89,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX005383,2026-08-16 02:25:42,ACCT-0406,BEN-0596,EFT,outgoing,2401.86,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX006349,2026-07-19 02:38:14,ACCT-0003,BEN-0383,EFT,outgoing,2394.80,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX009295,2026-10-17 01:37:47,ACCT-0001,BEN-0594,EFT,outgoing,2379.99,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX000741,2026-08-03 03:34:22,ACCT-0412,BEN-0764,FAST,outgoing,2354.38,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX002852,2026-07-10 00:53:21,ACCT-0190,BEN-0178,FAST,outgoing,2353.02,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX006282,2026-08-06 04:12:16,ACCT-0154,BEN-0498,FAST,outgoing,2335.32,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX003393,2026-08-12 00:24:08,ACCT-0468,BEN-0374,EFT,outgoing,2308.48,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX007402,2026-08-21 02:43:17,ACCT-0356,BEN-0673,EFT,outgoing,2306.64,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX008579,2026-08-25 00:52:58,ACCT-0056,BEN-0557,Havale,outgoing,2302.60,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010072,2026-10-24 08:24:00,ACCT-0331,BEN-0732,FAST,outgoing,2294.00,Öncelikli inceleme,2,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde | IQR: kanalına göre yüksek tutar"
+TRX008014,2026-08-27 01:58:30,ACCT-0335,BEN-0512,Havale,outgoing,2285.13,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010054,2026-08-13 14:11:00,ACCT-0293,BEN-0720,FAST,outgoing,2267.00,Öncelikli inceleme,2,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde | IQR: kanalına göre yüksek tutar"
+TRX010062,2026-10-26 19:31:00,ACCT-0311,BEN-0094,FAST,outgoing,2264.00,Öncelikli inceleme,2,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde | IQR: kanalına göre yüksek tutar"
+TRX010065,2026-07-01 13:25:00,ACCT-0211,BEN-0541,FAST,outgoing,2259.00,Öncelikli inceleme,2,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde | IQR: kanalına göre yüksek tutar"
+TRX003510,2026-08-29 00:14:07,ACCT-0268,BEN-0560,Havale,outgoing,2253.63,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX008573,2026-07-28 00:59:54,ACCT-0027,BEN-0200,Havale,outgoing,2252.66,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX006054,2026-08-12 04:04:32,ACCT-0421,BEN-0129,Havale,outgoing,2249.45,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010061,2026-08-09 11:15:00,ACCT-0009,BEN-0299,FAST,outgoing,2249.00,Öncelikli inceleme,2,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde | IQR: kanalına göre yüksek tutar"
+TRX004204,2026-07-31 03:57:09,ACCT-0033,BEN-0643,Havale,outgoing,2243.44,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX007512,2026-08-19 02:05:39,ACCT-0311,BEN-0520,FAST,outgoing,2228.82,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX006953,2026-09-21 00:59:43,ACCT-0421,BEN-0634,Havale,outgoing,2220.97,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX009405,2026-09-16 04:22:17,ACCT-0327,BEN-0016,EFT,outgoing,2202.12,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX002665,2026-07-28 02:32:29,ACCT-0494,BEN-0572,Havale,outgoing,2199.13,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX003953,2026-07-02 03:22:12,ACCT-0161,BEN-0036,EFT,outgoing,2197.69,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX004201,2026-07-19 01:15:46,ACCT-0064,BEN-0508,FAST,outgoing,2193.46,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX000543,2026-08-09 01:52:38,ACCT-0166,BEN-0355,EFT,outgoing,2179.14,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010056,2026-09-01 11:40:00,ACCT-0187,BEN-0599,Havale,outgoing,2170.00,Öncelikli inceleme,2,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde | IQR: kanalına göre yüksek tutar"
+TRX009955,2026-08-23 01:03:55,ACCT-0472,BEN-0376,Havale,outgoing,2159.54,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX001429,2026-08-21 04:49:12,ACCT-0213,BEN-0173,Havale,outgoing,2152.25,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX000687,2026-07-16 03:15:19,ACCT-0356,BEN-0177,FAST,outgoing,2145.04,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX002247,2026-09-27 03:08:05,ACCT-0105,BEN-0006,Havale,outgoing,2136.22,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX004571,2026-07-26 01:07:07,ACCT-0075,BEN-0371,EFT,outgoing,2132.36,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX001749,2026-09-06 03:40:51,ACCT-0380,BEN-0189,Havale,outgoing,2128.35,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX007933,2026-08-26 01:48:16,ACCT-0365,BEN-0094,FAST,outgoing,2114.84,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX006135,2026-09-30 00:35:22,ACCT-0057,BEN-0175,EFT,outgoing,2081.62,Öncelikli inceleme,2,IQR: kanalına göre yüksek tutar | Saat: gece 00:00–04:59 ve IQR üstü tutar
+TRX010019,2026-07-29 14:59:00,ACCT-0382,BEN-0795,Havale,outgoing,213408.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010017,2026-08-27 12:58:00,ACCT-0382,BEN-0378,EFT,outgoing,211761.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010013,2026-09-19 17:32:00,ACCT-0282,BEN-0028,Havale,outgoing,208857.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010004,2026-10-01 11:38:00,ACCT-0082,BEN-0432,FAST,outgoing,194077.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010018,2026-08-02 12:09:00,ACCT-0131,BEN-0102,EFT,outgoing,193713.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010003,2026-09-27 14:24:00,ACCT-0110,BEN-0668,EFT,outgoing,191433.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010020,2026-08-29 10:47:00,ACCT-0284,BEN-0497,Havale,outgoing,180450.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010001,2026-10-24 10:19:00,ACCT-0413,BEN-0572,FAST,outgoing,172724.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010007,2026-07-13 15:33:00,ACCT-0196,BEN-0413,EFT,outgoing,168126.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010015,2026-08-18 10:36:00,ACCT-0317,BEN-0666,FAST,outgoing,147595.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010009,2026-09-05 13:37:00,ACCT-0044,BEN-0134,Havale,outgoing,146437.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010011,2026-08-06 09:44:00,ACCT-0291,BEN-0625,FAST,outgoing,143909.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010012,2026-07-31 10:57:00,ACCT-0201,BEN-0143,Havale,outgoing,131026.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010002,2026-10-04 09:41:00,ACCT-0464,BEN-0021,FAST,outgoing,112021.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010014,2026-07-26 14:49:00,ACCT-0340,BEN-0289,Havale,outgoing,97361.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010016,2026-08-05 11:04:00,ACCT-0261,BEN-0782,FAST,outgoing,86161.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010005,2026-10-08 11:06:00,ACCT-0497,BEN-0174,EFT,outgoing,74797.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010010,2026-10-24 17:05:00,ACCT-0484,BEN-0069,EFT,outgoing,56522.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010008,2026-10-05 13:25:00,ACCT-0467,BEN-0529,EFT,outgoing,49352.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010006,2026-10-13 14:16:00,ACCT-0306,BEN-0561,Havale,outgoing,47464.00,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003983,2026-09-04 13:07:59,ACCT-0392,BEN-0167,FAST,outgoing,3669.82,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003402,2026-09-14 20:49:47,ACCT-0021,BEN-0213,EFT,outgoing,3565.32,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007740,2026-07-29 19:40:37,ACCT-0376,BEN-0304,FAST,outgoing,3461.58,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006384,2026-08-15 12:34:19,ACCT-0037,BEN-0271,FAST,outgoing,3450.19,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008917,2026-07-27 22:53:48,ACCT-0016,BEN-0504,EFT,outgoing,3392.41,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007709,2026-08-30 16:11:56,ACCT-0384,BEN-0736,Havale,outgoing,3362.84,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009076,2026-07-29 12:06:31,ACCT-0079,BEN-0259,EFT,outgoing,3314.55,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005609,2026-08-25 21:56:55,ACCT-0006,BEN-0113,Havale,outgoing,3242.39,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003313,2026-09-30 19:42:22,ACCT-0306,BEN-0034,FAST,outgoing,3182.80,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005494,2026-08-08 07:13:53,ACCT-0221,BEN-0321,FAST,outgoing,3176.95,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003030,2026-08-25 17:19:12,ACCT-0427,BEN-0261,Havale,outgoing,3108.60,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001540,2026-10-01 13:32:30,ACCT-0400,BEN-0482,EFT,outgoing,3070.20,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001648,2026-09-28 20:25:37,ACCT-0200,BEN-0061,Havale,outgoing,3047.47,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006364,2026-07-15 06:05:24,ACCT-0400,BEN-0356,Havale,outgoing,3031.37,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004499,2026-07-18 23:38:53,ACCT-0265,BEN-0672,EFT,outgoing,3025.14,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002584,2026-07-04 11:21:29,ACCT-0388,BEN-0652,EFT,outgoing,2998.81,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004615,2026-08-14 17:44:33,ACCT-0192,BEN-0230,EFT,outgoing,2998.03,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005152,2026-10-06 20:12:30,ACCT-0064,BEN-0266,Havale,outgoing,2966.49,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009058,2026-07-03 21:28:13,ACCT-0396,BEN-0368,Havale,outgoing,2952.91,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002318,2026-07-21 23:20:29,ACCT-0340,BEN-0483,Havale,outgoing,2952.57,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009259,2026-07-26 19:15:41,ACCT-0310,BEN-0251,EFT,outgoing,2932.23,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001794,2026-09-19 05:48:00,ACCT-0450,BEN-0176,FAST,outgoing,2931.49,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005005,2026-08-06 15:32:20,ACCT-0289,BEN-0719,Havale,outgoing,2930.50,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003071,2026-09-27 10:31:42,ACCT-0400,BEN-0032,Havale,outgoing,2927.59,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005969,2026-09-16 06:06:01,ACCT-0074,BEN-0364,Havale,outgoing,2916.86,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003332,2026-09-20 13:43:20,ACCT-0500,BEN-0444,EFT,outgoing,2907.01,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006457,2026-08-26 12:33:55,ACCT-0099,BEN-0209,EFT,outgoing,2842.84,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009079,2026-07-04 11:26:37,ACCT-0276,BEN-0222,FAST,outgoing,2825.11,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006748,2026-08-07 19:07:52,ACCT-0448,BEN-0302,FAST,outgoing,2806.03,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003154,2026-07-27 19:18:59,ACCT-0302,BEN-0234,EFT,outgoing,2789.41,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009305,2026-08-15 09:42:52,ACCT-0086,BEN-0319,EFT,outgoing,2782.03,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003025,2026-07-05 12:33:43,ACCT-0486,BEN-0488,Havale,outgoing,2751.77,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001365,2026-07-28 06:01:10,ACCT-0122,BEN-0777,FAST,outgoing,2747.82,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007931,2026-07-27 18:28:11,ACCT-0035,BEN-0050,FAST,outgoing,2722.32,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002899,2026-09-09 07:20:57,ACCT-0139,BEN-0213,FAST,outgoing,2716.95,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005056,2026-08-10 23:40:17,ACCT-0112,BEN-0444,Havale,outgoing,2692.29,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000912,2026-07-25 05:49:55,ACCT-0484,BEN-0425,FAST,outgoing,2677.74,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005119,2026-10-01 16:27:23,ACCT-0171,BEN-0602,EFT,outgoing,2669.16,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005316,2026-09-18 21:44:57,ACCT-0383,BEN-0292,FAST,outgoing,2662.10,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004722,2026-07-16 15:20:48,ACCT-0092,BEN-0296,EFT,outgoing,2650.83,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001940,2026-07-29 22:14:38,ACCT-0217,BEN-0360,Havale,outgoing,2610.82,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002840,2026-07-20 05:21:39,ACCT-0167,BEN-0177,FAST,outgoing,2607.53,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002851,2026-09-03 20:45:48,ACCT-0146,BEN-0636,Havale,outgoing,2601.51,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008410,2026-07-07 09:06:37,ACCT-0209,BEN-0440,FAST,outgoing,2591.79,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000037,2026-09-05 16:47:48,ACCT-0297,BEN-0035,EFT,outgoing,2590.49,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003374,2026-08-25 21:51:46,ACCT-0474,BEN-0658,EFT,outgoing,2576.26,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004833,2026-09-01 05:23:23,ACCT-0371,BEN-0513,EFT,outgoing,2526.54,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008152,2026-10-11 18:38:22,ACCT-0060,BEN-0265,Havale,outgoing,2512.95,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007300,2026-09-23 09:25:51,ACCT-0493,BEN-0698,EFT,outgoing,2505.26,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002567,2026-09-26 11:41:22,ACCT-0199,BEN-0131,EFT,outgoing,2500.02,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001378,2026-08-24 08:30:05,ACCT-0467,BEN-0054,Havale,outgoing,2495.37,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005779,2026-07-14 14:10:49,ACCT-0464,BEN-0725,FAST,outgoing,2483.77,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009100,2026-09-05 08:06:54,ACCT-0457,BEN-0025,EFT,outgoing,2479.88,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001135,2026-09-13 06:50:25,ACCT-0347,BEN-0390,Havale,outgoing,2461.61,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000951,2026-07-19 09:02:11,ACCT-0055,BEN-0099,Havale,outgoing,2454.03,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000082,2026-09-05 17:10:22,ACCT-0054,BEN-0429,Havale,outgoing,2449.01,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006795,2026-09-20 22:23:18,ACCT-0168,BEN-0269,Havale,outgoing,2448.52,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005254,2026-10-01 05:41:54,ACCT-0298,BEN-0547,Havale,outgoing,2447.84,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000364,2026-10-01 20:33:43,ACCT-0031,BEN-0250,EFT,outgoing,2447.35,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006746,2026-08-16 19:33:29,ACCT-0221,BEN-0209,Havale,outgoing,2447.32,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001514,2026-09-18 21:27:04,ACCT-0140,BEN-0358,Havale,outgoing,2444.66,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006453,2026-07-17 08:38:05,ACCT-0428,BEN-0149,EFT,outgoing,2433.96,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006755,2026-10-15 10:26:07,ACCT-0042,BEN-0544,EFT,outgoing,2430.93,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000882,2026-09-12 17:57:40,ACCT-0288,BEN-0641,Havale,outgoing,2412.71,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001316,2026-10-04 06:42:20,ACCT-0093,BEN-0423,FAST,outgoing,2412.67,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004012,2026-09-06 17:24:00,ACCT-0285,BEN-0767,Havale,outgoing,2408.43,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005973,2026-09-09 08:34:54,ACCT-0005,BEN-0396,EFT,outgoing,2408.34,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002803,2026-07-28 23:12:49,ACCT-0084,BEN-0770,FAST,outgoing,2404.85,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006791,2026-10-13 11:17:43,ACCT-0478,BEN-0165,Havale,outgoing,2398.87,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005507,2026-10-01 10:36:21,ACCT-0247,BEN-0179,Havale,outgoing,2398.14,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008725,2026-10-26 13:57:43,ACCT-0109,BEN-0259,EFT,outgoing,2396.15,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006392,2026-10-02 05:43:05,ACCT-0043,BEN-0061,EFT,outgoing,2393.28,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002974,2026-10-14 20:28:54,ACCT-0152,BEN-0241,Havale,outgoing,2390.83,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001918,2026-09-16 14:14:58,ACCT-0127,BEN-0002,EFT,outgoing,2386.10,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001557,2026-08-22 18:56:07,ACCT-0262,BEN-0074,EFT,outgoing,2369.65,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007415,2026-07-23 19:15:34,ACCT-0094,BEN-0052,Havale,outgoing,2368.30,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007266,2026-07-24 14:34:31,ACCT-0132,BEN-0643,FAST,outgoing,2367.06,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002241,2026-10-07 15:15:43,ACCT-0471,BEN-0729,FAST,outgoing,2354.76,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003204,2026-09-29 22:07:47,ACCT-0048,BEN-0186,EFT,outgoing,2346.65,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005658,2026-08-16 17:53:20,ACCT-0103,BEN-0406,Havale,outgoing,2345.55,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004431,2026-10-04 22:12:37,ACCT-0419,BEN-0293,Havale,outgoing,2339.18,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005946,2026-08-02 07:54:23,ACCT-0240,BEN-0276,Havale,outgoing,2337.11,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009571,2026-10-22 20:39:48,ACCT-0292,BEN-0223,Havale,outgoing,2333.82,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009141,2026-10-03 09:17:07,ACCT-0066,BEN-0083,Havale,outgoing,2332.66,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003820,2026-07-02 06:11:45,ACCT-0392,BEN-0281,Havale,outgoing,2326.22,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003716,2026-08-30 21:13:06,ACCT-0162,BEN-0255,Havale,outgoing,2319.23,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003002,2026-08-15 08:11:26,ACCT-0337,BEN-0154,Havale,outgoing,2318.73,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005739,2026-07-11 22:42:17,ACCT-0477,BEN-0562,Havale,outgoing,2308.65,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004973,2026-09-12 11:18:33,ACCT-0409,BEN-0455,FAST,outgoing,2298.88,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001930,2026-09-30 19:25:44,ACCT-0387,BEN-0724,Havale,outgoing,2295.68,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007628,2026-10-23 22:31:44,ACCT-0192,BEN-0347,Havale,outgoing,2284.87,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001194,2026-09-24 10:26:23,ACCT-0492,BEN-0315,Havale,outgoing,2278.41,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000479,2026-09-03 09:59:20,ACCT-0055,BEN-0252,Havale,outgoing,2278.26,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009241,2026-08-12 05:55:36,ACCT-0119,BEN-0288,FAST,outgoing,2275.54,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001413,2026-08-10 12:20:53,ACCT-0011,BEN-0044,Havale,outgoing,2268.67,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009956,2026-08-28 14:38:15,ACCT-0296,BEN-0366,FAST,outgoing,2268.23,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003857,2026-07-16 05:16:38,ACCT-0156,BEN-0418,Havale,outgoing,2256.74,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006200,2026-10-14 13:01:30,ACCT-0165,BEN-0385,EFT,outgoing,2255.58,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX007927,2026-08-27 21:52:09,ACCT-0027,BEN-0416,FAST,outgoing,2251.04,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001904,2026-07-02 14:47:20,ACCT-0202,BEN-0422,Havale,outgoing,2240.74,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009156,2026-08-06 06:24:39,ACCT-0160,BEN-0306,Havale,outgoing,2238.47,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009621,2026-10-24 17:30:26,ACCT-0405,BEN-0723,Havale,outgoing,2237.60,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008250,2026-08-22 08:20:44,ACCT-0200,BEN-0445,Havale,outgoing,2236.48,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000762,2026-09-21 14:35:26,ACCT-0261,BEN-0703,Havale,outgoing,2227.46,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004881,2026-09-21 20:54:54,ACCT-0168,BEN-0768,Havale,outgoing,2219.81,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005849,2026-08-01 14:37:17,ACCT-0461,BEN-0187,Havale,outgoing,2213.86,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006665,2026-07-21 08:11:33,ACCT-0170,BEN-0190,Havale,outgoing,2213.45,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008015,2026-09-22 22:48:40,ACCT-0036,BEN-0038,FAST,outgoing,2209.52,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002180,2026-08-11 23:53:50,ACCT-0490,BEN-0045,Havale,outgoing,2206.66,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006667,2026-08-25 19:11:34,ACCT-0421,BEN-0260,Havale,outgoing,2201.93,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005940,2026-07-18 19:27:30,ACCT-0363,BEN-0565,FAST,outgoing,2200.54,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006133,2026-07-12 09:34:00,ACCT-0369,BEN-0033,Havale,outgoing,2193.99,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002216,2026-08-26 18:18:05,ACCT-0069,BEN-0211,EFT,outgoing,2189.78,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001463,2026-08-07 07:30:24,ACCT-0121,BEN-0573,EFT,outgoing,2186.56,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005612,2026-08-17 21:59:51,ACCT-0212,BEN-0499,EFT,outgoing,2185.67,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002954,2026-10-16 22:57:57,ACCT-0205,BEN-0115,FAST,outgoing,2185.59,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000406,2026-09-05 05:52:25,ACCT-0260,BEN-0355,FAST,outgoing,2183.77,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003777,2026-08-28 19:33:28,ACCT-0342,BEN-0183,EFT,outgoing,2180.43,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000848,2026-08-07 10:16:19,ACCT-0232,BEN-0308,FAST,outgoing,2175.07,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX009365,2026-10-23 08:50:13,ACCT-0396,BEN-0044,EFT,outgoing,2174.13,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX004623,2026-09-30 09:39:27,ACCT-0241,BEN-0036,EFT,outgoing,2173.92,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001872,2026-09-08 21:03:08,ACCT-0040,BEN-0372,EFT,outgoing,2173.65,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001407,2026-08-27 07:46:23,ACCT-0331,BEN-0315,Havale,outgoing,2167.32,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX002077,2026-08-02 14:50:52,ACCT-0161,BEN-0740,EFT,outgoing,2162.54,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005109,2026-10-17 22:09:55,ACCT-0435,BEN-0765,EFT,outgoing,2161.70,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000560,2026-07-17 10:16:51,ACCT-0021,BEN-0656,EFT,outgoing,2161.51,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005002,2026-10-17 19:23:19,ACCT-0077,BEN-0268,FAST,outgoing,2161.19,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006837,2026-10-21 14:53:30,ACCT-0389,BEN-0565,EFT,outgoing,2160.52,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX006564,2026-10-15 17:20:03,ACCT-0253,BEN-0367,Havale,outgoing,2150.72,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008113,2026-10-11 15:45:28,ACCT-0089,BEN-0048,FAST,outgoing,2149.77,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001698,2026-07-21 05:04:51,ACCT-0168,BEN-0106,Havale,outgoing,2145.98,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003589,2026-08-24 23:18:24,ACCT-0345,BEN-0608,FAST,outgoing,2143.94,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000264,2026-08-14 22:35:24,ACCT-0411,BEN-0313,FAST,outgoing,2143.38,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001891,2026-10-16 07:17:49,ACCT-0194,BEN-0192,EFT,outgoing,2141.20,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005906,2026-08-04 08:45:47,ACCT-0426,BEN-0669,FAST,outgoing,2138.75,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000987,2026-09-07 22:30:13,ACCT-0499,BEN-0707,EFT,outgoing,2132.98,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003478,2026-08-13 08:53:07,ACCT-0429,BEN-0691,FAST,outgoing,2130.08,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008981,2026-08-06 17:58:16,ACCT-0451,BEN-0094,FAST,outgoing,2121.57,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX003159,2026-09-25 21:31:37,ACCT-0267,BEN-0187,FAST,outgoing,2117.94,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX005637,2026-08-10 06:01:32,ACCT-0369,BEN-0429,Havale,outgoing,2117.51,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX008043,2026-10-01 09:54:56,ACCT-0500,BEN-0333,EFT,outgoing,2110.28,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000028,2026-07-22 18:14:27,ACCT-0182,BEN-0719,EFT,outgoing,2110.26,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX000563,2026-08-09 13:37:48,ACCT-0384,BEN-0418,EFT,outgoing,2091.32,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX001013,2026-07-01 21:31:22,ACCT-0398,BEN-0103,EFT,outgoing,2077.74,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010053,2026-08-13 14:09:00,ACCT-0293,BEN-0720,FAST,outgoing,2068.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010068,2026-10-17 11:21:00,ACCT-0467,BEN-0500,Havale,outgoing,2068.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX009033,2026-10-13 07:45:13,ACCT-0088,BEN-0638,EFT,outgoing,2066.24,İnceleme adayı,1,IQR: kanalına göre yüksek tutar
+TRX010052,2026-08-03 19:48:00,ACCT-0249,BEN-0723,FAST,outgoing,2038.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010084,2026-10-10 15:13:00,ACCT-0044,BEN-0502,EFT,outgoing,2001.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010047,2026-09-24 16:27:00,ACCT-0431,BEN-0082,Havale,outgoing,1970.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010066,2026-07-01 13:27:00,ACCT-0211,BEN-0541,FAST,outgoing,1943.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010070,2026-10-17 11:25:00,ACCT-0467,BEN-0500,Havale,outgoing,1943.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010046,2026-08-27 17:32:00,ACCT-0359,BEN-0665,Havale,outgoing,1940.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010074,2026-07-16 09:17:00,ACCT-0342,BEN-0361,EFT,outgoing,1907.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010063,2026-10-26 19:33:00,ACCT-0311,BEN-0094,FAST,outgoing,1869.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010049,2026-09-24 16:31:00,ACCT-0431,BEN-0082,Havale,outgoing,1850.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010057,2026-09-01 11:42:00,ACCT-0187,BEN-0599,Havale,outgoing,1824.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010073,2026-10-24 08:26:00,ACCT-0331,BEN-0732,FAST,outgoing,1821.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010075,2026-07-16 09:19:00,ACCT-0342,BEN-0361,EFT,outgoing,1686.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010082,2026-10-16 12:37:00,ACCT-0471,BEN-0363,FAST,outgoing,1685.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010079,2026-09-24 18:23:00,ACCT-0181,BEN-0620,EFT,outgoing,1660.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010044,2026-08-27 17:28:00,ACCT-0359,BEN-0665,Havale,outgoing,1628.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010069,2026-10-17 11:23:00,ACCT-0467,BEN-0500,Havale,outgoing,1597.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010076,2026-07-16 09:21:00,ACCT-0342,BEN-0361,EFT,outgoing,1568.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010077,2026-09-24 18:19:00,ACCT-0181,BEN-0620,EFT,outgoing,1561.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010083,2026-10-10 15:11:00,ACCT-0044,BEN-0502,EFT,outgoing,1552.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010048,2026-09-24 16:29:00,ACCT-0431,BEN-0082,Havale,outgoing,1532.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010085,2026-10-10 15:15:00,ACCT-0044,BEN-0502,EFT,outgoing,1523.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010060,2026-08-09 11:13:00,ACCT-0009,BEN-0299,FAST,outgoing,1468.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010042,2026-08-22 18:42:00,ACCT-0156,BEN-0192,Havale,outgoing,1412.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010071,2026-10-24 08:22:00,ACCT-0331,BEN-0732,FAST,outgoing,1393.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010067,2026-07-01 13:29:00,ACCT-0211,BEN-0541,FAST,outgoing,1346.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010081,2026-10-16 12:35:00,ACCT-0471,BEN-0363,FAST,outgoing,1333.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010058,2026-09-01 11:44:00,ACCT-0187,BEN-0599,Havale,outgoing,1310.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010045,2026-08-27 17:30:00,ACCT-0359,BEN-0665,Havale,outgoing,1290.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010050,2026-08-03 19:44:00,ACCT-0249,BEN-0723,FAST,outgoing,1268.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010064,2026-10-26 19:35:00,ACCT-0311,BEN-0094,FAST,outgoing,1254.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010041,2026-08-22 18:40:00,ACCT-0156,BEN-0192,Havale,outgoing,1222.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010043,2026-08-22 18:44:00,ACCT-0156,BEN-0192,Havale,outgoing,1184.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010080,2026-10-16 12:33:00,ACCT-0471,BEN-0363,FAST,outgoing,1133.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010059,2026-08-09 11:11:00,ACCT-0009,BEN-0299,FAST,outgoing,1049.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010055,2026-08-13 14:13:00,ACCT-0293,BEN-0720,FAST,outgoing,1037.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010078,2026-09-24 18:21:00,ACCT-0181,BEN-0620,EFT,outgoing,1031.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
+TRX010051,2026-08-03 19:46:00,ACCT-0249,BEN-0723,FAST,outgoing,974.00,İnceleme adayı,1,"Hızlı tekrar: aynı hesap/yararlanıcı/kanal, 10 dk içinde"
